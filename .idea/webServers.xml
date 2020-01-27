@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ebb768d1-3d1d-4e17-bfca-d8faf53bdf9c" name="khk" url="http://localhost/pvk">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\pvk" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
